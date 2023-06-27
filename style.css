@@ -77,7 +77,7 @@ body {
 .descricao_titulo {
     font-weight: 700%;
     font-size: 46%;
-    color: var (--branco-principal)
+    color: var(--branco-principal)
     margin: 0.1em
 }
 
